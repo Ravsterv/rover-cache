@@ -5,21 +5,21 @@
 .lat-row{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  
 }
 .long-row{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  
 }
 .descrip-row{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
- justify-content: space-between;
+ 
 }
 .big-container{
   display:flex;
   flex-direction:column;
-  justify-content: space-between;
+  
 }
