@@ -28,3 +28,8 @@
   flex-direction:column;
   
 }
+.data-entry{
+  border:2px black;
+  margin: 5px;
+  padding: 5px;
+}
