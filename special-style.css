@@ -5,12 +5,16 @@
 .lat-row{
   display: flex;
   flex-direction: row;
+  align-content: space-between;
 }
 .long-row{
   display: flex;
   flex-direction: row;
+  align-content: space-between;
 }
 .descrip-row{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
 }
