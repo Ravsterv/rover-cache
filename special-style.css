@@ -22,7 +22,7 @@
 .descrip-row{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  
   border: 2px black;
   margin: 5px;
  
