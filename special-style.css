@@ -5,17 +5,22 @@
 .lat-row{
   display: flex;
   flex-direction: row;
-  
+  border: 2px black;
+  margin: 5px;
 }
 .long-row{
   display: flex;
   flex-direction: row;
+  border: 2px black;
+  margin: 5px;
   
 }
 .descrip-row{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  border: 2px black;
+  margin: 5px;
  
 }
 .big-container{
