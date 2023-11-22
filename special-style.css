@@ -18,3 +18,8 @@
   flex-wrap: wrap;
   align-content: space-between;
 }
+.big-container{
+  display:flex;
+  flex-direction:column;
+  align-content: space-between;
+}
